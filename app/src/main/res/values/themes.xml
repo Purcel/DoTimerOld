@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Timer" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_900</item>
+        <item name="colorPrimaryVariant">@color/blue_a700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color.  NO EFFECT ON THIS APP-->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Needed by Material3 -->
+        <item name="colorOnSurface">@color/blue_900</item>
+        <item name="colorPrimaryContainer">@color/blue_900</item>
+        <!-- Status bar color. -->
+
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor" tools:ignore="PrivateResource">@color/m3_sys_color_light_background</item>
+        <item name="android:navigationBarColor" tools:ignore="PrivateResource">@color/m3_sys_color_light_background</item>
+        <!---->
+        <item name="chipIconTint">@color/blue_900</item>
+        <!-- BottomSheetDialog style -->
+        <item name="bottomSheetDialogTheme">@style/ActionsBottomSheetDialog</item>
+    </style>
+
+    <style name="ActionsBottomSheet" parent="Widget.Material3.BottomSheet">
+    </style>
+
+    <style name="ActionsBottomSheetDialog" parent="ThemeOverlay.Material3.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/ActionsBottomSheet</item>
+    </style>
+</resources>

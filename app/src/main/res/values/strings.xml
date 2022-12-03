@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="timer">%02d:%02d:%02d</string>
+    <string name="notification_button_stop">STOP</string>
+    <string name="notification_channel_alarm_name">Timer alarm</string>
+    <string name="notification_channel_name">Timer</string>
+    <string name="notification_channel_alarm_desc">Timer alarm notification channel description</string>
+    <string name="notification_channel_desc">Timer notification channel description</string>
+
+    <string name="about">About</string>
+
+    <string name="music_stop_string">Music stop</string>
+    <string name="alarm_string">Alarm</string>
+    <string name="flashlight_string">Flashlight ON</string>
+    <string name="action_bottom_sheet_title_string">Chose Actions</string>
+
+    <string name="activity_fullscreen_button_name_string">STOP</string>
+    <string name="activity_fullscreen_init_value_string">-1</string>
+    <string name="github_button_name">GitHub</string>
+    <string name="about_content">This is an open source Android app developed by Iulian Purcell. The source code is available on</string>
+<string name="github_link">https://github.com/Purcel/DoTimer</string>
+
+    <string name="main_counter_init_value">00:00:00</string>
+
+    <string name="notification_alarm_title">Alarm</string>
+    <string name="notification_alarm_desc">Alarm running</string>
+    <string name="notification_title">Timer</string>
+    <string name="notification_desc">Timer notification channel description</string>
+    <string name="title_activity_fullscreen_alarm_notification">FullscreenAlarmNotification</string>
+</resources>

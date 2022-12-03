@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_900">#005488</color>
+    <color name="blue_a700">#3CA4E4</color>
+
+    <color name="teal_200">#D84315</color>
+    <color name="teal_700">#EF6C00</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#C06A00</color>
+
+    <color name="alarm_notification_color">#B43900</color>
+
+    <color name="github_button_color">#1F1F1F</color>
+</resources>

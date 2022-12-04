@@ -10,7 +10,7 @@ I hereby state, that I have not programmed this app to collect any personally id
 
 The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
 
-https://github.com/Purcel/DoTimer/blob/master/app/src/main/AndroidManifest.xml
+https://github.com/Purcel/DoTimer/blob/2699fe22258ffee03ef69aa602112f9554b67094/app/src/main/AndroidManifest.xml#L4-L7
 
 <br/>
 
